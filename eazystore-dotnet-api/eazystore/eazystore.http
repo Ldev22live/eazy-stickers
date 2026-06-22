@@ -1,0 +1,6 @@
+@eazystore_HostAddress = http://localhost:5287
+
+GET {{eazystore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
