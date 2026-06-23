@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eazystore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11a3f7252b5b1e8751754c860c265d6d9fa3ea8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36f296b63005b24e2670db1183a40e828d22fabb")]
 [assembly: System.Reflection.AssemblyProductAttribute("eazystore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eazystore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
