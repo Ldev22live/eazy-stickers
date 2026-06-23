@@ -12,7 +12,7 @@ function App() {
     <Home />
     <Footer />
     </React.Fragment>
-
+    //clean
   );
 }
 
